@@ -1,5 +1,5 @@
 # Automatic-Facebook-poster
-This page explains how to schedule automatic posts on Facebook.
+This page explains how to schedule automatic posts on Facebook using Selenium on Python.
 
 In the python file, make sure you update the directory paths to the files as well as your Facebook credentials.
 
